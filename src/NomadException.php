@@ -5,7 +5,6 @@
  * For full license information, please view the LICENSE distributed with this source code.
  */
 
-
 namespace SK\Nomad;
 
 use Exception as BaseException;
