@@ -1,3 +1,5 @@
+> # IN DEVELOPMENT!! DO NOT USE YET!
+
 # Nomad
 
 A PHP Client for Hashicorp's [Nomad](https://www.nomadproject.io).
