@@ -1,5 +1,5 @@
 {
-    "name": "sk/nomad",
+    "name": "skluck/nomad",
     "description": "A PHP Client for Hashicorp's Nomad",
 
     "type": "library",
