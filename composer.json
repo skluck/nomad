@@ -1,0 +1,20 @@
+{
+    "name": "sk/nomad",
+    "description": "A PHP Client for Hashicorp's Nomad",
+
+    "type": "library",
+    "keywords": [ "nomad", "hashicorp", "scheduler" ],
+    "license": "MIT",
+    "authors": [
+        { "name": "Steve Kluck", "email": "steve@kluck.engineering" }
+    ],
+
+   "autoload": {
+        "psr-4": { "SK\\Nomad\\": "src" }
+    },
+
+    "require": {
+        "php": "~7.1",
+        "guzzlehttp/guzzle": "~6.3"
+    }
+}
